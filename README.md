@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Full-Stack Developer with a passion for creating high-quality applications. Chasing my childhood dream to take over the world (or by just driving a Porsche 992 GT3). Proficient in ***React, NodeJS, MySQL, AWS, Vue.js, Python, C++, PHP and Lua***. Currently studying computer engineering and moonlighting as a motorsport enthusiast. 
+
+Thank you for taking the time to view my profile, I look forward to the opportunity to contribute to your projects.
+
 <!--
 **FraudMomo/fraudmomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
